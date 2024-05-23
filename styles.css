@@ -108,3 +108,14 @@ button:hover{
     color: black;
     transition: 0.3s ease-in-out;
 }
+@media(max-width:550px){
+    #calculadora{
+        width: 90%;
+    }
+    .developer{
+        font-size: small;
+    }
+    .developer a{
+        font-size: small;
+    }
+}
