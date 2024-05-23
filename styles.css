@@ -6,7 +6,7 @@
 body{
     margin: 0;
     height:100vh;
-    background-image: url(numbersGif.gif);
+    background-image: url(/img/numbersGif.gif);
     background-size: cover;
 }
 #calculadora{
